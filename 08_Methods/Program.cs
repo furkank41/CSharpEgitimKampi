@@ -87,6 +87,7 @@ namespace _08_Methods
             //z = Console.ReadLine();
             //Console.WriteLine(countryCard(x, y, z));
 
+            Console.WriteLine();           
             #endregion
 
             #region Simülasyon
