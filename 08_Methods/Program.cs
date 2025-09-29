@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; fsafsafs
 using System.CodeDom;
 using System.Collections.Generic;
 using System.Text;
@@ -17,11 +17,9 @@ namespace _08_Methods
             //void Metot1()
             // int,char,string,bool,float,double,decimal Metot2()
 
-            //void CustomerList()
-            //{
-            //    Console.WriteLine("Ali Yıldız");
-            //    Console.WriteLine("Ayşe Yıldız");
-            //    Console.WriteLine("Fatma Yıldız");
+          /void CustomerList()
+           {
+              Console.WriteLine("Fatma Yıldız");
             //}
 
             //CustomerList();
